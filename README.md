@@ -1,4 +1,4 @@
-# Adios
+# Adios Amigos
 
 ![lordronz](https://komarev.com/ghpvc/?username=lordronz&label=Profile%20views&color=000000&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/lordronz)](https://badges.pufler.dev)
