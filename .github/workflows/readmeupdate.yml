@@ -39,5 +39,5 @@ jobs:
           git commit -m "Update README"
           git push -u https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git update
           echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
-          gh pr create --fill
+          gh pr create --head update --fill
           gh pr merge -d -m
