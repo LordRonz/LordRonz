@@ -1,4 +1,7 @@
-![Vibin Greenies](./shrek.gif)
+from datetime import datetime
+
+with open("./README.md", "w") as f:
+    f.write(f'''![Vibin Greenies](./shrek.gif)
 
 ![LordRonz](https://komarev.com/ghpvc/?username=lordronz&label=Profile%20views&color=000000&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/lordronz)](https://badges.pufler.dev)
@@ -19,4 +22,5 @@
 
 ![lordronz](https://github-readme-streak-stats.herokuapp.com/?user=lordronz&theme=monokai)
 
-Updated: 17/05/2021 11:25:58
+Updated: {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}
+''')
