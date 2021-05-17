@@ -1,11 +1,11 @@
 ![Shrek](./shrek.gif)
 
-![lordronz](https://komarev.com/ghpvc/?username=lordronz&label=Profile%20views&color=000000&style=flat-square)
+![LordRonz](https://komarev.com/ghpvc/?username=lordronz&label=Profile%20views&color=000000&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/lordronz)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/lordronz)](https://badges.pufler.dev)
 [![Gists Badge](https://badges.pufler.dev/gists/lordronz)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lordronz)](https://badges.pufler.dev)
-![lordronz](https://img.shields.io/badge/isAwesome-true-blue?style=flat-square)
+![LordRonz](https://img.shields.io/badge/isAwesome-true-blue?style=flat-square)
 
 [![lordronz](https://github-profile-trophy.vercel.app/?username=lordronz&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
