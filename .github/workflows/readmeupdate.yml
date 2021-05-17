@@ -1,9 +1,6 @@
 name: Generate README.md File
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '9 */6 * * *'
 
