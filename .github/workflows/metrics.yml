@@ -11,7 +11,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MY_TOKEN }}
           user: LordRonz
           plugin_achievements: yes
           plugin_achievements_secrets: yes      # Display unlocked secrets achievements
