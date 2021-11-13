@@ -18,3 +18,4 @@ jobs:
           plugin_achievements_display: compact  # Use compact display
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
+          plugin_pagespeed: yes
