@@ -10,6 +10,8 @@ with open("./README.md", "w") as f:
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lordronz)](https://badges.pufler.dev)
 ![LordRonz](https://img.shields.io/badge/isAwesome-true-blue?style=flat-square)
 
+![Snek](https://raw.githubusercontent.com/lordronz/lordronz/main/github-contribution-grid-snake.svg)
+
 ![Metrics](https://github.com/LordRonz/LordRonz/blob/main/github-metrics.svg)
 
 [![lordronz](https://github-profile-trophy.vercel.app/?username=lordronz&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
