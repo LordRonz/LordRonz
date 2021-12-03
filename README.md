@@ -7,7 +7,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lordronz)](https://badges.pufler.dev)
 ![LordRonz](https://img.shields.io/badge/isAwesome-true-blue?style=flat-square)
 
-![Snek](https://raw.githubusercontent.com/lordronz/lordronz/main/github-contribution-grid-snake.svg)
+![Snek](https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg)
 
 ![Metrics](https://github.com/LordRonz/LordRonz/blob/main/github-metrics.svg)
 
