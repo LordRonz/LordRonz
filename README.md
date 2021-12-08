@@ -1,11 +1,13 @@
 ![Vibin Greenies](./shrek.gif)
 
-![LordRonz](https://komarev.com/ghpvc/?username=lordronz&label=Profile%20views&color=000000&style=flat-square)
-[![Years Badge](https://badges.pufler.dev/years/lordronz)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/lordronz)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/lordronz)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/lordronz)](https://badges.pufler.dev)
-![LordRonz](https://img.shields.io/badge/isAwesome-true-blue?style=flat-square)
+![LordRonz](https://komarev.com/ghpvc/?username=lordronz&label=Profile%20views&color=690000&style=flat-square)
+[![Years Badge](https://badges.pufler.dev/years/lordronz?style=flat-square&color=690000)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/lordronz?style=flat-square&color=690000)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/lordronz?style=flat-square&color=690000)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/lordronz?style=flat-square&color=690000)](https://badges.pufler.dev)
+![GitHub followers](https://img.shields.io/github/followers/lordronz?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/lordronz?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![LordRonz](https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=690000)
 
 ![Snek](https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg)
 
