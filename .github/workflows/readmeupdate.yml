@@ -33,8 +33,10 @@ jobs:
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git checkout -b update
           git add .
-          git commit -m "Update README"
+          git commit -m "feat: update README"
           git push -u https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git update
           echo "${{ secrets.MY_TOKEN }}" | gh auth login --with-token
           gh pr create --head update --fill
+          gh pr review --comment -b "amogus"
+          gh pr review --comment -b "sussy baka"
           gh pr merge -d -m
