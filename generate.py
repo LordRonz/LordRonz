@@ -57,5 +57,10 @@ with open("./README.md", "w") as f:
 </details>
 <br/>
 
+---
+<div align="center">
+    <a href="https://lordronz.github.io" target="_blank">Website: lordronz.github.io</a><br/><br/>
+</div>
+
 Updated: {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}
 ''')
