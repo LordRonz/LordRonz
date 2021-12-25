@@ -62,5 +62,7 @@ with open("./README.md", "w") as f:
     <a href="https://lordronz.github.io" target="_blank">Website: lordronz.github.io</a><br/><br/>
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=53823544)
+
 Updated: {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}
 ''')
