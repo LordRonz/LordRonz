@@ -3,7 +3,7 @@ from datetime import datetime
 with open("./README.md", "w") as f:
     f.write(f'''<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23EB2754&size=40&center=true&width=600&height=69&lines=Henlo;Sussy+baka" alt="Typing SVG">
-    <img src="./shrek.gif" alt="Vibin Greenies"/>
+    <img src="./nishimiya-baka.gif" alt="Vibin Greenies"/>
 </p>
 
 <p align="center">
