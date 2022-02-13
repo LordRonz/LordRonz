@@ -12,6 +12,7 @@ jobs:
         python-version: [3.9]
 
     steps:
+      - name: Checkout
       - uses: actions/checkout@v2
 
       - name: Set up Python ${{ matrix.python-version }}
@@ -25,8 +26,9 @@ jobs:
   test-nim:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Nim
+      - name: Checkout
         uses: actions/checkout@v2
+      - name: Set up Nim
         uses: jiro4989/setup-nim-action@v1
         with:
           nim-version: 'stable'
