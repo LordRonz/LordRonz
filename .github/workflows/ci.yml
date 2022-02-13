@@ -26,9 +26,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Nim
-      - uses: actions/checkout@v2
-      - uses: jiro4989/setup-nim-action@v1
+        uses: actions/checkout@v2
+        uses: jiro4989/setup-nim-action@v1
         with:
           nim-version: 'stable'
       - name: Run nim script
-      - run: nim r generate.nim
+        run: nim r generate.nim
