@@ -71,14 +71,13 @@ jobs:
       - name: 🦑 Personal metrics (pagespeed)
         uses: lowlighter/metrics@latest
         with:
-          user: LordRonz
           filename: metrics.plugin.pagespeed.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       - name: 🧑‍🤝‍🧑 People plugin (followers)
