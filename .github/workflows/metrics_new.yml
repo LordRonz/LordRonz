@@ -72,6 +72,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.pagespeed.svg
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.MY_TOKEN }}
+          base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
