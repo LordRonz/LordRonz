@@ -76,7 +76,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
