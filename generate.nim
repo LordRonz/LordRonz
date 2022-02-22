@@ -32,6 +32,8 @@ writeFile("yo.md", &"""<p align="center">
     </a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zj0mmwt10p8w3j0k03jfj9330&cover_image=true&theme=natemoo-re&bar_color=a90000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zj0mmwt10p8w3j0k03jfj9330&redirect=true)
+
 ## 🐍 Snek
 
 <details> 
