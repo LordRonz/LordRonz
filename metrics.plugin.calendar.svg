@@ -2011,10 +2011,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.734939759036145 0,5.734939759036145 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.734939759036145 1.7,6.734939759036145 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.759036144578314)">
+                            <g transform="translate(-5.1, 6.72289156626506)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.240963855421686 0,3.2409638554216866 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2409638554216866 1.7,4.240963855421686 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.27710843373494 0,3.2771084337349397 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2771084337349397 1.7,4.27710843373494 z"/>
                             </g>
                             <g transform="translate(-6.8, 7.144578313253012)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2052,7 +2052,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cnrad/lanyard-profile-readme</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏷️ Utilize Lanyard to display your Discord Presence in your GitHub Profile</div>
@@ -2099,7 +2099,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>praw-dev/praw</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.</div>
