@@ -88,6 +88,7 @@
         <p align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordronz&show_icons=true&theme=monokai&locale=en&layout=compact&langs_count=10&hide=html,css,vue,cmake,jupyter%20notebook,scss,tex,smarty&exclude_repo=dotfiles,laravel-react-starter" alt="Top Lang"/>
             <img src="https://github-readme-stats.vercel.app/api?username=lordronz&show_icons=true&theme=monokai&locale=en" alt="LordRonz"/>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lordronz&theme=monokai&locale=en" alt="LordRonz"/>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordronz&theme=monokai" alt="LordRonz"/>
         </p>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
