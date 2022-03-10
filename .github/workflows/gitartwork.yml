@@ -1,9 +1,9 @@
   name: gitartwork from a contribution graph
   on: 
-    workflow-dispatch:
+    workflow_dispatch:
     schedule:
       - cron: '9 */6 * * *'
-  workflow_dispatch:
+
   jobs:
     build:
       name: Make gitartwork SVG
