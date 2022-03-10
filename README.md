@@ -42,6 +42,16 @@
         </p>
 </details>
 
+## 🎨 Artwork
+
+<details> 
+    <summary>Collapse</summary>
+    <br/>
+        <p align="center">
+            <img src="./gitartwork.svg" alt="Git Artwork"/>
+        </p>
+</details>
+
 ## 📈 Metrics
 
 <p align="center">
