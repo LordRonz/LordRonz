@@ -1989,10 +1989,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.240963855421686 0,3.2409638554216866 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2409638554216866 1.7,4.240963855421686 z"/>
                             </g>
-                            <g transform="translate(-10.2, 10.08433734939759)">
+                            <g transform="translate(-10.2, 10.048192771084338)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.9156626506024095 0,2.9156626506024095 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9156626506024095 1.7,3.9156626506024095 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.9518072289156625 0,2.9518072289156625 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.9518072289156625 1.7,3.9518072289156625 z"/>
                             </g>
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
@@ -2022,7 +2022,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>capstone-bangkeith/validin-apps</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
