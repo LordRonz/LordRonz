@@ -107,9 +107,13 @@ writeFile("yo.md", &"""<p align="center">
 </details>
 <br/>
 
+<p align="center">
+    <img src="./eva.png" alt="I have become the Neon Genesis Evangelion"/>
+</p>
+
 ---
 <div align="center">
-    <a href="https://lordronz.github.io" target="_blank">Website: lordronz.github.io</a><br/><br/>
+    <a href="https://lordronz.github.io" target="_blank">Website: ronz.vercel.app</a><br/><br/>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=53823544)
