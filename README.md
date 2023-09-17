@@ -38,7 +38,11 @@
     <summary>Collapse</summary>
     <br/>
         <p align="center">
-            <img src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg" alt="Snek"/>
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake-dark.svg" />
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake-light.svg" />
+              <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake.svg" />
+            </picture>
         </p>
 </details>
 
