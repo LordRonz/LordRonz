@@ -38,11 +38,7 @@
     <summary>Collapse</summary>
     <br/>
         <p align="center">
-            <picture>
-              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake-dark.svg" />
-              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake-light.svg" />
-              <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake.svg" />
-            </picture>
+            <img src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg" alt="Snek"/>
         </p>
 </details>
 
@@ -115,9 +111,9 @@
 
 ---
 <div align="center">
-    <a href="https://www.aaronct.dev" target="_blank">Website: www.aaronct.dev</a><br/><br/>
+    <a href="https://lordronz.github.io" target="_blank">Website: ronz.vercel.app</a><br/><br/>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=53823544)
 
-Updated: 17/09/2023 12:33:13
+Updated: 17/09/2023 18:22:32
