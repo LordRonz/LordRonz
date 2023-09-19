@@ -114,7 +114,7 @@ with open("./README.md", "w") as f:
 
 ---
 <div align="center">
-    <a href="https://lordronz.github.io" target="_blank">Website: ronz.vercel.app</a><br/><br/>
+    <a href="https://www.aaronct.dev" target="_blank">Website: www.aaronct.dev</a><br/><br/>
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=53823544)
