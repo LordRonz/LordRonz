@@ -16,4 +16,4 @@
               user_name: lordronz
               # Text on contribution graph 
               text: AMOGUS
-        - uses: jasineri/simple-push-action@v1
+        - uses: jasineri/simple-push-action@v2
