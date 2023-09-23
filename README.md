@@ -38,7 +38,11 @@
     <summary>Collapse</summary>
     <br/>
         <p align="center">
-            <img src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg" alt="Snek"/>
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake-dark.svg" />
+              <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake-light.svg" />
+              <img alt="GitHub contribution Snek animation" src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/grid-snake.svg" />
+            </picture>
         </p>
 </details>
 
@@ -116,4 +120,4 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=53823544)
 
-Updated: 23/09/2023 12:33:08
+Updated: 23/09/2023 13:58:12
