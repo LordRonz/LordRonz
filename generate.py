@@ -1,7 +1,21 @@
 from datetime import datetime
+import re
 
-with open("./README.md", "w") as f:
-    f.write(f'''<p align="center">
+def generate():
+    with open("./README.md") as f:
+        readme_content = f.read()
+    
+    readme_replacement = f'Updated: {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}'
+    new_readme = re.sub('Updated: .*', readme_replacement, readme_content)
+
+    with open("./README.md", "w") as f:
+        f.write(new_readme)
+
+generate()
+
+if False:
+    with open("./README.md", "rw") as f:
+        f.write(f'''<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23EB2754&size=40&center=true&width=600&height=69&lines=Henlo;Sussy+baka" alt="Typing SVG">
     <img src="./nishimiya-baka.gif" alt="Nishimiya Baka Sign Language"/>
 </p>

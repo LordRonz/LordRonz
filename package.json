@@ -1,0 +1,18 @@
+{
+  "name": "aaron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LordRonz/LordRonz.git",
+  "author": "Aaron Christopher Tanhar <aaron.christopher@komunal.co.id>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "ts-node generate.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.3",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
