@@ -28,7 +28,7 @@ jobs:
       - name: Generate README
         run: |
           git checkout -b update
-          git pull
+          git pull -u https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
           python generate.py
 
       - name: Commit README
