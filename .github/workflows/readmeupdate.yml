@@ -26,7 +26,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       - name: Generate README
-        run: python generate.py
+        run: |
+          git pull
+          python generate.py
 
       - name: Commit README
         run: |
