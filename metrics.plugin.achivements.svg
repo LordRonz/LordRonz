@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="650.4833333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="650.5866666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -53,10 +53,10 @@
                                     <span class="prefix">Master</span>
                                     contributor
                                     <div class="value-wrapper">
-                                        <div class="value">7295</div>
+                                        <div class="value">7296</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 7295 pull requests</div>
+                                <div class="text">Opened 7296 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -69,7 +69,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.28666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.39 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -97,10 +97,10 @@
                                     <span class="prefix">Master</span>
                                     reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">1506</div>
+                                        <div class="value">1507</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 1506 pull requests</div>
+                                <div class="text">Reviewed 1507 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -417,7 +417,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 83.1k out of 158m users</span>
+                                    <span class="gh">ranked 83.2k out of 158m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">146</div>
                                     </div>
@@ -532,7 +532,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.28m out of 243m repositories</span>
+                                    <span class="gh">ranked 1.28m out of 242m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">21</div>
                                     </div>
