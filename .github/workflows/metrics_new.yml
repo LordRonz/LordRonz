@@ -41,7 +41,7 @@ jobs:
 
       - name: 🦑 Personal metrics (anilist)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           user: LordRonz
           filename: metrics.plugin.personal.anilist.svg
@@ -56,7 +56,7 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       - name: 🦑 Personal metrics (starred)
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           user: LordRonz
           filename: metrics.plugin.topics.mastered.svg
@@ -81,7 +81,7 @@ jobs:
 
       - name: 🧑‍🤝‍🧑 People plugin (followers)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           user: LordRonz
           filename: metrics.plugin.people.followers.svg
@@ -94,7 +94,7 @@ jobs:
 
       - name: 🈷️ Languages plugin (detailed)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           user: LordRonz
           filename: metrics.plugin.languages.details.svg
@@ -108,7 +108,7 @@ jobs:
 
       - name: 🎫 Gists plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           user: LordRonz
           filename: metrics.plugin.gists.svg
