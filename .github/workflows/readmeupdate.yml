@@ -29,15 +29,27 @@ jobs:
         run: |
           python generate.py
 
-      - name: Commit README
+      - name: Commit and open PR
+        env:
+          GH_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+          # bail out early if nothing changed
+          if git diff --quiet; then
+            echo "No changes to README, skipping."
+            exit 0
+          fi
+
+          # nuke any leftover branch from a previous failed/unmerged run
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git --delete update || true
+
           git checkout -b update
           git add .
           git commit -m "feat: update README"
           git push -f -u https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git update
-          echo "${{ secrets.MY_TOKEN }}" | gh auth login --with-token
+
           gh pr create --head update --fill
           gh pr review --comment -b "amogus"
           gh pr review --comment -b "sussy baka"
