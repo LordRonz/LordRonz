@@ -5,7 +5,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
